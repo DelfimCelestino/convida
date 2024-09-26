@@ -1,3 +1,6 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
+
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
